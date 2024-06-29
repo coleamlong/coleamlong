@@ -1,51 +1,29 @@
-## Hi there 👋
+# 💽 Cole Amlong
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate software developer with a focus on front-end development. I'm excited to share my journey and projects with you.
+**`Virtual Storyteller (Developer/DJ/Creative)`**
 
-<!--
-**[your-github-username]/[your-github-username]** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate developer eager to make a positive impact with my skills. I graduated from the University of Texas at Austin with a Computer Science degree and am committed to continuous learning as I start my career. I love web development and thrive on solving real-world problems. Excited to take on new challenges, I look forward to working on projects that make a difference. Let’s connect and create something amazing together!
 
-Here are some ideas to get you started:
--->
+---
 
-### 🔭 I’m currently working on
-- [Project Name]: A brief description of the project and its purpose.
-- [Project Name]: A brief description of the project and its purpose.
+### 🧰 Languages and Tools
 
-### 🌱 I’m currently learning
-- Advanced JavaScript concepts and frameworks (e.g., React, Angular, Vue)
-- Backend development with Node.js and Express
-- CSS preprocessors like SASS and LESS
-- Web performance optimization techniques
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-### 👯 I’m looking to collaborate on
-- Open-source front-end projects
-- Innovative web applications
-- Developer community initiatives
+<br />
 
-### 🤔 I’m looking for help with
-- Improving my skills in full-stack development
-- Understanding best practices in software architecture
-- Tips on creating efficient and scalable web applications
+#
 
-### 💬 Ask me about
-- Front-end development
-- JavaScript frameworks and libraries
-- Best practices for responsive design
-- Tips for new developers breaking into the industry
+### 📊 Stats
 
-### 📫 How to reach me
-- [Email Address]
-- [LinkedIn Profile]
-- [Twitter Handle] (if applicable)
+![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=coleamlong&show_icons=true&theme=cobalt)
 
-### 😄 Pronouns
-- [Your Pronouns] (e.g., He/Him, She/Her, They/Them)
-
-### ⚡ Fun fact
-- I love exploring new technologies and applying them to solve real-world problems.
-- In my free time, I enjoy [your hobbies/interests].
-
-Feel free to check out my repositories and get in touch if you’d like to collaborate or just have a chat!
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical)
+#
