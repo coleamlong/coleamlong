@@ -2,7 +2,7 @@
 
 **`Virtual Storyteller (Developer/DJ/Creative)`**
 
-I’m a passionate developer eager to make a positive impact with my skills. I graduated from the University of Texas at Austin with a Computer Science degree and am committed to continuous learning as I start my career. I love web development and thrive on solving real-world problems. Excited to take on new challenges, I look forward to working on projects that make a difference. Let’s connect and create something amazing together!
+I’m a passionate developer eager to make a positive impact with my skills. I graduated from the University of Texas at Austin's computer science program and strive to continue learning as I start my career. I empathize with users to develop wholisitc, hospitable web applicaitons. Let’s connect and create something amazing together!
 
 ---
 
